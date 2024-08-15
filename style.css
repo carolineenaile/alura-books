@@ -1,0 +1,16 @@
+@import url(styles/header.css);
+
+:root {
+    --background: #EBECEE;
+    --background-header: #FFFFFF;
+    --font-color-highlight: #EB9B00;
+    --font-color-gradient: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);    
+    --font: "Poppins", sans-serif;
+}
+
+body {
+    background-color: var(--background);
+    font-family: var(--font);
+    font-size: 1rem;
+    font-weight: 400;
+}
